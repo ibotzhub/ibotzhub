@@ -1,0 +1,17 @@
+# os junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editor garbage
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# generated snake output (managed by github actions, not committed manually)
+dist/
+
+# misc
+*.log
